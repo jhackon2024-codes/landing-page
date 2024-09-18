@@ -36,7 +36,7 @@ A styled letter "M" made up of musical notes, symbolizing harmony and creativity
 
 # TECHNICAL REQUIREMENTS
 1. Front-End: HTML5, CSS3, JavaScript(React.js, Vue.js or Angular.js).
-2. BAck-End: Node.js, Express.js, MongoDB
+2. Back-End: Node.js, Express.js, MongoDB
 3. API Integration: Music streaming APIs(e.g.,Spotify, Apple Music).
 
 # MONETIZATION
